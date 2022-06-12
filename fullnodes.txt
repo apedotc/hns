@@ -1,0 +1,157 @@
+{
+  ipv4: '5.161.136.39',
+  port: '44806',
+  publicKey: 'aoahmeivl46st2qjtag5o6awubxl4xrj2s7xwcyvy4bwdseddp3cw',
+  message: 'ashburn1 - public full node hosted by apedotc',
+  signature: 'acd93d99f2f2ae79fb7f706b5f6ac0e1e475f5bd40f3ed8f1054eb0b7c5edc5d0285200e969360184f6c5f04728ed8224e13272d1dffad11dd6fd7a58e0de2bf'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '185.243.214.147',
+  port: '44806',
+  publicKey: 'akdjbyhwuchk5q3pf7xwd2d7ptzukrshnxm2vjifw2b62y44dsuog',
+  message: 'athens1 - public full node hosted by apedotc',
+  signature: '734418331db6e82bd831e36ffd2d92d6c272094d5b8fa1a9418f67087341d0714c97797e7bcdc8b07a91ac11254a2b89623d295f429a8facdbabaa88ac3c4051'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '86.106.181.167',
+  port: '44806',
+  publicKey: 'al5bkyinncmk65ejcrnhc57blc7r5yaxvjx6braafahxkuuwfhw4q',
+  message: 'dronten1 - public full node hosted by apedotc',
+  signature: 'a1bef9b7d1c8f1e2b6573bb9f99d54bca8c849f92d1a7b095f04908086359ca95443ad7f1e2755b9793b58ee6188b23fa67f935bf3af2f111c56c1e786fd6cba'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '178.18.254.92',
+  port: '44806',
+  publicKey: 'aoopcp5nygnuy63fnb65dh67ltfh2ktmpyzdcfffamytnmz3h7u6k',
+  message: 'dusseldorf1 - public full node hosted by apedotc',
+  signature: '9bbf6210d259ce76e499bb29777b007489378203af998698bffd588c3cdc52707025ad27f86d54a38c83a91c15a7071574be0c1a33fb599b3845f3f3dcac7f0f'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '167.235.253.96',
+  port: '44806',
+  publicKey: 'ajmn4lw5jyx7fa7s7wmrecmll37qslytutdzbfrp7awp2r66yp4dc',
+  message: 'falkenstein1 - public full node hosted by apedotc',
+  signature: '511e0b5285b792c930639bc08158c16a3ae4b89c52c8dc99bb413eec8a2c19a30a209c40eba5c719c77826ca836b0316043294a49bbed6fc0b171454d3146470'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '193.41.237.153',
+  port: '44806',
+  publicKey: 'apo7yu6en5lx56mcfp4t4nasoydmv6xou6arpvgr2dczwrn5sl6cu',
+  message: 'frankfurt1 - public full node hosted by apedotc',
+  signature: '37799c1e4529fd6aab97e2f0bc2bec934ab5ef07450fb7e023b3d860a1177d921b02d05655ed43e90bbf1a49460aa7d48858efe04679372764740abf9ac0448c'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '65.109.6.21',
+  port: '44806',
+  publicKey: 'aoh557aeqik6f4sjr7qth3clempszkm5rlg2tpmz7gbo6sz25ogqm',
+  message: 'helsinki1 - public full node hosted by apedotc',
+  signature: 'eeb3e924af6c83c0dc112f288c01699510b9fba37f4bc4a1a7917b6e871294985c034b4ba842f1ddea00985c5ecfecb927a80c7e8c7bdd48cdc48d7d168adc9c'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '82.223.165.215',
+  port: '44806',
+  publicKey: 'am7sc3tkuan6runbjwmfcvrvokazmh4uufnfv5tu4p6uwqme7alt4',
+  message: 'logrono1 - public full node hosted by apedotc',
+  signature: '5da4a0e7a9a562977de80665267c3f45d66e11e15d13390b3e8a4fb04cfc957159c87344673d364ccfb10a8d796728a17c48639df1d925a6d9d11c8d9b2763a8'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '185.232.71.108',
+  port: '44806',
+  publicKey: 'amnaewacmj34bfjyx5p5praw7gy7u3veo4uksrb3i6jftp4dj3qme',
+  message: 'nuremberg1 - public full node hosted by apedotc',
+  signature: '50c242d0faa6068a57dbef5492c49781b12fda7c1ff3d5ed80f56cbe873b6dd30c60925bb9568ed0587b3f44a3db77fa0c92c641f06ab36c91b7f60b0fb2d29d'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '162.55.210.152',
+  port: '44806',
+  publicKey: 'anb3w4ureih3v35ri7vbqltehw5irdptd2sduanmv2ekq4o2eb4vq',
+  message: 'nuremberg2 - public full node hosted by apedotc',
+  signature: 'fb7a528f07f7d21c8d3d321bedbc2e8338eb6351a6b4517a11947c8a5a5e5ce33f11df58b681e0b4184d2b24d278ef5cd5446b4c1baf14f7a55d5afc2cdad988'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '149.102.152.193',
+  port: '44806',
+  publicKey: 'alnf6joamuufrqznguklezlvy2pqgr5iaxp5asfgz5hkigrzdfl6m',
+  message: 'portsmouth1 - public full node hosted by apedotc',
+  signature: '0539f71ffc9229f82bf1f489f49c3a9f52aef8c27a31471310d94eba5367a26923a3dc465d23c15ba0820054ac4efd5c7aae748e1f070f6520a79ee366e303bd'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '66.94.118.127',
+  port: '44806',
+  publicKey: 'aokqydlfelkezrkz4ix5fteibsvbpgregc5t5s2kuy66tfizmpmao',
+  message: 'seattle1 - public full node hosted by apedotc',
+  signature: 'f3b3d429d196a8f09620683b87c7c71000187be9e73a599c1d43244e0932c0656afe0cc2ac8cb00c628ac044ff6d740b885f9640ba3f27610c22f53f382b70ff'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '154.26.133.109',
+  port: '44806',
+  publicKey: 'aooswaqppsgoguaf2kfu5je7pkqycpzbwdxbx3wnlni5i5fsn634g',
+  message: 'singapore1 - public full node hosted by apedotc',
+  signature: '4c5dc5c30c4c05a080d61f0f85ec84f00b3c435428dce95a518378947d4ead4a3baa071a223cf8d4b89688a6da08c84b1d5cdd1521ba543a367a82d44fa8b88f'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '207.244.233.76',
+  port: '44806',
+  publicKey: 'ai7itedldc33si4wpwjoorps23lyl63a5uledftbpda6s4y7kkmgw',
+  message: 'stlouis1 - public full node hosted by apedotc',
+  signature: '759694e4bd647862c20cae832d8d48f45c3742ef2210ea1e04f9b3a821c7a95d428dcb94ffec8b084939706da01e7798908d0695e68f9ef5ff3045a0cb912556'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '89.38.129.122',
+  port: '44806',
+  publicKey: 'akuxcsb2word4iovhvlzhnx36knl76dficme4mpmkuumzttkfmlri',
+  message: 'valencia1 - public full node hosted by apedotc',
+  signature: 'a2b875c2fbdf1e0143cc1564c980b7f14473b8552baa5b17bf15f5d3dcac48b56e275732766c9dea72f0c8271bf95878d54f3e3e224d87c4e556b5329fa1757c'
+}
+
+---------------------------------------------------------------------
+
+{
+  ipv4: '89.58.17.86',
+  port: '44806',
+  publicKey: 'ampt3b5eefpssd3dopinqwr4frgi5wkd3jhrvilqgjok6kor56vl2',
+  message: 'vienna1 - public full node hosted by apedotc',
+  signature: '83f83ebdbbdb2a05ea1109b639c5edc346e19f235122a23ba8c8e3fbcebc15f04ae5a456a732356810dd255322bf69ef4ba19b179ab058ec7a982d97a21acf88'
+}
